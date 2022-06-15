@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class TreeMapPratice {
-
         public static void main(String[] args) {
             System.out.println("PRICE LIST：");
             TreeMap<KEY, String> list = new TreeMap<>(new MyComparator1());
